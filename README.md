@@ -136,7 +136,12 @@ Languages & Technologies: `Java`, `WPILib`, `Image Processing` \
 
 <br/>
 
-[![TonyNogueron's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonynogueron&theme=tokyonight&hide=stars,issues)](https://github.com/tonynogueron/github-readme-stats)
+<!--
+<p align=center>  
+  <img align=center src="https://github-readme-stats.vercel.app/api?username=tonynogueron&show_icons=true&theme=tokyonight&hide=stars,issues">
+</p>
+-->
+[![TonyNogueron's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonynogueron&show_icons=true&theme=tokyonight&hide=stars,issues)](https://github.com/tonynogueron/github-readme-stats)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tonynogueron.tonynogueron)
