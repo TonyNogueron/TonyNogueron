@@ -95,18 +95,28 @@ Hi! I am a passionate sophomore student of a B.S. Computer Science and Technolog
 
 ### Experience:
 
-[<img align="left" height="100px" width="100px" alt="Microsoft" src="https://github.com/benc-uk/icon-collection/blob/master/logos/microsoft-logo.svg"/>](https://www.microsoft.com/)
+[<img align="left" height="80px" width="80px" alt="Microsoft" src="https://github.com/benc-uk/icon-collection/blob/master/logos/microsoft-logo.svg"/>](https://www.microsoft.com/)
 
-**Microsoft Explore Intern (SWE + PM)** \
-[**Microsoft**](https://www.microsoft.com/) • Internship (June 2022 - Sep 2022) \
+**Microsoft Explore Internship (June 2022 - Sep 2022)** \
+[**Microsoft**](https://www.microsoft.com/) • Microsoft Explore Intern (SWE + PM)\
 Languages & Technologies: `TypeScript`, `React`, `JavaScript`, `C#`, `CosmosDB`, `Azure DevOps` \
 <br/>
 <br/>
 
-[<img align="left" height="110px" width="100px" alt="Tecxotic" src="https://tecxotic.com.mx/wp-content/uploads/2021/05/Logo-Tecxotic-Azul.png"/>](https://tecxotic.com.mx/)
+[<img align="left" height="90px" width="80px" alt="Tecxotic" src="https://tecxotic.com.mx/wp-content/uploads/2021/05/Logo-Tecxotic-Azul.png"/>](https://tecxotic.com.mx/)
 
-**Developer** \
-[**Tecxotic**](https://tecxotic.com.mx/) • Developer | MATE ROV Competition \
+**MATE ROV Competition (2021 - present)** \
+[**Tecxotic**](https://tecxotic.com.mx/) • Developer \
 Languages & Technologies: `JavaScript`, `Python`, `Html5`, `Image Processing` \
 <br/>
 <br/>
+<br/>
+
+[<img align="left" height="80px" width="80px" alt="Lebotics#5948" src="https://pbs.twimg.com/media/ER9_Z1HX0AAIWNJ.jpg"/>](https://www.instagram.com/lebotics_5948/?hl=es-la)
+
+**First Robotics Competition (October 2018 - May 2021)** \
+[**Lebotics #5948**](https://www.instagram.com/lebotics_5948/?hl=es-la) • (FRC Lebotics #5948) | Programmer and Driver \
+Languages & Technologies: `Java`, `WPILib`, `Image Processing` \
+<br/>
+<br/>
+
