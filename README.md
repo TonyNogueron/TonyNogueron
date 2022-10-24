@@ -13,7 +13,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tonynogueron.tonynogueron)
 
 <div align = "center">
-Hi! I am a passionate sophomore student of a B.S. Computer Science and Technology at Tecnológico de Monterrey in Mexico. I love being in continuous learning to grow my knowledge and develop my skills to innovate in this technological world.
+  <h4>
+Hi! I am a passionate sophomore student of a B.S. Computer Science and Technology at "Tecnológico de Monterrey" in Mexico. I love being in continuous learning to grow my knowledge and develop my skills to innovate in this technological world.
+  </h4>
 </div>
 
 <br> </br>
@@ -96,7 +98,15 @@ Hi! I am a passionate sophomore student of a B.S. Computer Science and Technolog
 [<img align="left" height="100px" width="100px" alt="Microsoft" src="https://github.com/benc-uk/icon-collection/blob/master/logos/microsoft-logo.svg"/>](https://www.microsoft.com/)
 
 **Microsoft Explore Intern (SWE + PM)** \
-[**Microsoft**](https://www.microsoft.com/) • Internship (June 2022 - Sep - 2022) \
-Languages & Technologies: `TypeScript`, `React`, `JavaScript`, `C#`, `MySQL` \
+[**Microsoft**](https://www.microsoft.com/) • Internship (June 2022 - Sep 2022) \
+Languages & Technologies: `TypeScript`, `React`, `JavaScript`, `C#`, `CosmosDB`, `Azure DevOps` \
+<br/>
+<br/>
+
+[<img align="left" height="110px" width="100px" alt="Tecxotic" src="https://tecxotic.com.mx/wp-content/uploads/2021/05/Logo-Tecxotic-Azul.png"/>](https://tecxotic.com.mx/)
+
+**Developer** \
+[**Tecxotic**](https://tecxotic.com.mx/) • Developer | MATE ROV Competition \
+Languages & Technologies: `JavaScript`, `Python`, `Html5`, `Image Processing` \
 <br/>
 <br/>
