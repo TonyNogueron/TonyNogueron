@@ -8,6 +8,9 @@
   <a href="https://www.instagram.com/tony_nogueron/">
     <img alt="Tony's Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
+  <a href="mailto:antonio.nogueron03@outlook.com">
+    <img alt = "Tony's Mail" src = "https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25>
+  </a>
 </p>
 
 <div align = "center">
