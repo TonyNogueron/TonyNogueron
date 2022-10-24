@@ -46,6 +46,10 @@ Hi! I am a passionate sophomore student of a B.S. Computer Science and Technolog
 </code> 
 
 <code>
+ <img alt = "TypeScript" height = "50"src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" >
+</code>
+
+<code>
   <img alt = "Html" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" >
 </code> 
 
@@ -55,6 +59,10 @@ Hi! I am a passionate sophomore student of a B.S. Computer Science and Technolog
 
 <code> 
   <img alt = "Java" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" >
+</code>
+
+<code> 
+  <img alt = "Processing3" height = "50" src = "https://github.com/devicons/devicon/blob/master/icons/processing/processing-original.svg" >
 </code>
 
 <code> 
@@ -125,6 +133,10 @@ Languages & Technologies: `Java`, `WPILib`, `Image Processing` \
 - I am learning to play the violin :violin: &nbsp; and piano :musical_keyboard:
 - I enjoy playing videogames with my friends :video_game:
 - I am a fan of mexican cousine :mexico: &nbsp; and I cook
+
+<br/>
+
+[![TonyNogueron's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonynogueron&theme=tokyonight&hide=stars,issues)](https://github.com/tonynogueron/github-readme-stats)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tonynogueron.tonynogueron)
