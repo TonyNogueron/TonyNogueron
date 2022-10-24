@@ -14,8 +14,41 @@
 
 <div align = "center">
 Hi! I am a passionate sophomore student of a B.S. Computer Science and Technology at Tecnológico de Monterrey in Mexico. I love being in continuous learning to grow my knowledge and develop my skills to innovate in this technological world.
-  </div>
+</div>
+
+<br> </br>
+
+<div align = "center"> 
+  <img alt = "Programming gif" src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height = "350px">
+</div>
+
+<br> </br>
   
+  ### :hammer_and_wrench: &nbsp; Programming languages and tools :
+
+<!-- 
+C++
+Python
+JavaScript
+R
+MySQL
+C#
+Java
+Html
+Css
+Node js
+React
+
+-->
+
+<code>
+  <img alt = "C++" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" >
+</code> 
+ 
+<code>
+  <img alt = "Python" height="50" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" >
+</code> 
+
 
 <!--
 **TonyNogueron/TonyNogueron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
