@@ -84,15 +84,19 @@ Hi! I am a passionate sophomore student of a B.S. Computer Science and Technolog
 
 <!--
 **TonyNogueron/TonyNogueron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Experience:
+
+[<img align="left" height="100px" width="100px" alt="Microsoft" src="https://github.com/benc-uk/icon-collection/blob/master/logos/microsoft-logo.svg"/>](https://www.microsoft.com/)
+
+**Microsoft Explore Intern (SWE + PM)** \
+[**Microsoft**](https://www.microsoft.com/) • Internship (June 2022 - Sep - 2022) \
+Languages & Technologies: `TypeScript`, `React`, `JavaScript`, `C#`, `MySQL` \
+<br/>
+<br/>
