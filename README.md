@@ -1,5 +1,5 @@
 
-<h1 align = "center" > Antonio Noguerón Bárcenas <h1/>
+<h1 align = "center" > Antonio Noguerón Bárcenas </h1>
 
 <p align = "center"> 
   <a href="https://www.linkedin.com/in/antonio-nogueron/">
@@ -8,11 +8,15 @@
   <a href="https://www.instagram.com/tony_nogueron/">
     <img alt="Tony's Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
-<p/>
+</p>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=tonynogueron.tonynogueron&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tonynogueron.tonynogueron)
 
+<div align = "center">
+Hi! I am a passionate sophomore student of a B.S. Computer Science and Technology at Tecnológico de Monterrey in Mexico. I love being in continuous learning to grow my knowledge and develop my skills to innovate in this technological world.
+  </div>
   
+
 <!--
 **TonyNogueron/TonyNogueron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
