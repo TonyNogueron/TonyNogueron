@@ -10,8 +10,6 @@
   </a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tonynogueron.tonynogueron)
-
 <div align = "center">
   <h4>
 Hi! I am a passionate sophomore student of a B.S. Computer Science and Technology at "Tecnológico de Monterrey" in Mexico. I love being in continuous learning to grow my knowledge and develop my skills to innovate in this technological world.
@@ -120,3 +118,10 @@ Languages & Technologies: `Java`, `WPILib`, `Image Processing` \
 <br/>
 <br/>
 
+### Interesting things about me:
+- I am learning to play the violin :violin: &nbsp; and piano :musical_keyboard:
+- I enjoy playing videogames with my friends :video_game:
+- I am a fan of mexican cousine :mexico: &nbsp; and I cook
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tonynogueron.tonynogueron)
